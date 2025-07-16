@@ -30,6 +30,3 @@ College-Database-Management-System
 - Upon launching the application, users will be prompted to enter a password for access control.
 - The main menu provides options to manage student and teacher information.
 - Users can create new entries, search for existing records, and display information as needed.
-
-## Contributing
-Contributions to enhance the functionality and usability of the College Database Management System are welcome. Please submit a pull request or open an issue for discussion.
