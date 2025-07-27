@@ -1,6 +1,6 @@
 
 ## Overview
-The College Database Management System is a C++ application designed to manage student and teacher information efficiently. It provides functionalities for data entry, retrieval, and display, ensuring that educational institutions can maintain accurate records of their students and faculty.
+The University Database Management System is a C++ application designed to manage student and teacher information efficiently. It provides functionalities for data entry, retrieval, and display, ensuring that educational institutions can maintain accurate records of their students and faculty.
 
 ## Project Structure
 ```
